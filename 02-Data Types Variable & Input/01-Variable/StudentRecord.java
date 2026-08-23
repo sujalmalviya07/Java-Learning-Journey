@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 
 public class StudentRecord {
     public static void main(String[] args){
