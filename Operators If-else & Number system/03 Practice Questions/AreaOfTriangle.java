@@ -12,7 +12,7 @@ public class AreaOfTriangle {
       int height = sc.nextInt();
 
       int area = (base*height)/2;
-      System.out.println("Area of Triagnle is : " + area);
+      System.out.println("Area of Triangle is : " + area);
 
     }
 }
