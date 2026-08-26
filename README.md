@@ -13,4 +13,12 @@ This repository documents my journey of learning Java from basics to Object-Orie
 - If-Else
 - Relational Operator
 - Logical Operator
+### 04 - Number System
+#### Bitwise Operator
+ - AND Operator
+ - OR Operator
+ - XOR Operator
+ - NOT Operator
+ - Left Shift Operator
+ - Right Shift Operator
  
