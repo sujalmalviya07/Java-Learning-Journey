@@ -5,6 +5,7 @@ public class GreetingMethod {
 
     }
    public static void Greet(){
+
        System.out.println("Good Morning");
     }
 }

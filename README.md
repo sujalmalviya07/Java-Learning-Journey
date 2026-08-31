@@ -21,7 +21,8 @@ This repository documents my journey of learning Java from basics to Object-Orie
  - NOT Operator
  - Left Shift Operator
  - Right Shift Operator
-### 05 -While loop , Method & Array
+### 05 -While loop , Method
  - while loop
  - Methods/Functions
+ - practice questions
  
