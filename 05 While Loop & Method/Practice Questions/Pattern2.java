@@ -5,17 +5,18 @@ public class Pattern2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your Number ");
         int num  = sc.nextInt();
-        int i = 1;
-        while (i<=num){
-            int j = 1;
+       int i=1;
+       while(i<=num){
+           int j=1;
+           while (j<=num){
+               System.out.print("*"+" ");
+               j++;
 
-            while (j>=i){
-                System.out.print("*"+" ");
-                j--;
-            }
-            System.out.println();
-            i++;
-
-        }
+           }
+           System.out.println();
+           num--;
+       }
     }
 }
+
+
