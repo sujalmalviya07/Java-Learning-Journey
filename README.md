@@ -25,4 +25,8 @@ This repository documents my journey of learning Java from basics to Object-Orie
  - while loop
  - Methods/Functions
  - practice questions
+### 06 -Array
+ - 1D-Array/Array-Basic
+ - 2D-Array
+
  
