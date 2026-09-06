@@ -1,31 +1,35 @@
 import java.util.Scanner;
 
 public class ArraySearching {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Array Searching ..\n");
-        int [] arr = { 12,34,56,76,32,34,21,23};
-        System.out.println("Enter Your Number, You Want to search ....");
+        System.out.println("Array Searching Program");
+        int[] arr = {12, 233, 12, 34, 21, 123, 1};
         int num = sc.nextInt();
-        boolean ifFound = ifFound(arr, num);
-        if(ifFound){
-            System.out.println("Your Number is Found In Array ");
+        boolean isFound=isFound(arr,num);
+        if(isFound){
+            System.out.println("Number is Found in Array list");
         }
         else {
-            System.out.println("Your Number is Found In Array ");
+            System.out.println("Number is Not Found in Array list");
         }
 
-
     }
-    public static boolean ifFound(int[]arr, int num){
-        int i = 0;
+    public static boolean isFound(int [] arr,int num){
+        int i=0;
         while (i< arr.length){
             if(arr[i]==num){
                 return true;
             }
             i++;
+
         }
+
+
         return false;
+
     }
+
+
 }
 
