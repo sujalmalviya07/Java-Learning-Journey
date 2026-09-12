@@ -31,3 +31,4 @@ This repository documents my journey of learning Java from basics to Object-Orie
 ### 07 -For Loop , Switch Case
  - For Loop
  - Switch Case
+ - Add practice questions 
