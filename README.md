@@ -28,7 +28,7 @@ This repository documents my journey of learning Java from basics to Object-Orie
 ### 06 -Array
  - 1D-Array/Array-Basic
  - 2D-Array
-### 07 -For Loop ,Switch Case
+### 07 -For Loop & Switch Case
  - For Loop
  - Switch Case
  - Add practice questions 
