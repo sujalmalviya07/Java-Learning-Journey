@@ -5,6 +5,7 @@ This repository documents my journey of learning Java from basics to Object-Orie
 ### 01 - Basics
 
  ### 02 - Data Types, Variables & Input
+
  ### 03 - Operators, If-Else & Number System 
 - Arithmetic Operator
 - Assignment Operator
@@ -13,6 +14,7 @@ This repository documents my journey of learning Java from basics to Object-Orie
 - If-Else
 - Relational Operator
 - Logical Operator
+
 ### 04 - Number System
 #### Bitwise Operator
  - AND Operator
@@ -21,14 +23,13 @@ This repository documents my journey of learning Java from basics to Object-Orie
  - NOT Operator
  - Left Shift Operator
  - Right Shift Operator
-### 05 -While loop , Method
+
+### 05 - While loop , Method
  - while loop
  - Methods/Functions
  - practice questions
-### 06 -Array
- - 1D-Array/Array-Basic
- - 2D-Array
-### 07 -For Loop & Switch Case
+
+### 06 - For Loop
  - For Loop
- - Switch Case
+ - Practice Question
  
