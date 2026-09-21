@@ -32,4 +32,4 @@ This repository documents my journey of learning Java from basics to Object-Orie
 ### 06 - For Loop
  - For Loop
  - Practice Question
- 
+### 07 - Method and Return types
