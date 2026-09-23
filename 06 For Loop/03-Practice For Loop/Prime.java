@@ -23,7 +23,6 @@ public class Prime {
 
         System.out.println("Number is prime");
     }
-
     public static void prime(){
 
 
