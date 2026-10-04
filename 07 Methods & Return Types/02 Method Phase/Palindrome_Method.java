@@ -4,6 +4,10 @@ public class Palindrome_Method {
         int orignal=n;
         int digit=0;
 
+         if (n < 0) {
+             return false;
+         }
+
         while (n>0){
 
             digit=digit*10+n%10;
