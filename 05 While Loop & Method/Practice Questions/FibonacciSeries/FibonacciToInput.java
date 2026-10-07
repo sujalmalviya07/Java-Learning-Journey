@@ -11,7 +11,7 @@ public class FibonacciToInput {
         int b=1;
         int i=1;
         while (i<=num){
-            System.out.println(a+" ");
+            System.out.print(a+" ");
             b=a+b;
             a=b-a;
             i++;
