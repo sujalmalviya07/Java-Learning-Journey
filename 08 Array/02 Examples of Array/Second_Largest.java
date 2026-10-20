@@ -1,7 +1,6 @@
 public class Second_Largest {
     public static void main(String[] args) {
         int[] arr = {12, 35, 24, 10, 2, 1};
-
         System.out.println(secondLargest(arr));
     }
 

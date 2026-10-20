@@ -1,10 +1,7 @@
 public class Searching_Number {
     public static void main(String[] args){
         int[] arr = {14, 7, 25, 3, 19};
-        int  x =linearSearch(arr, 25);
-        int y =linearSearch(arr, 100);
-        System.out.println(x);
-        System.out.println(y);
+        System.out.println(linearSearch(arr, 25));
     }
     static int linearSearch(int[] arr, int target){
 
