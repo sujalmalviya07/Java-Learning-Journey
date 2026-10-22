@@ -19,7 +19,9 @@ public class Second_Largest {
             }
         }
 
-
+        if(secondLargest==Integer.MIN_VALUE){
+            return -1;
+        }
 
 
         return secondLargest;
