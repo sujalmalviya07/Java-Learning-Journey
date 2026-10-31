@@ -36,4 +36,5 @@ This repository documents my journey of learning Java from basics to Object-Orie
 
 ### 08 - Array 
  - Basics Array
+ - Practice Question 
  
